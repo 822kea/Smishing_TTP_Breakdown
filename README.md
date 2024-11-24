@@ -1,7 +1,10 @@
 # Analyzing Signs of a Smishing Attempt  
 
 ## The Message:  
-![Smishing Image](SMS Photo/smishing_photo.PNG) 
+
+<img src="SMSPhoto/smishing_photo.PNG" alt="Smishing Attempt Example" width="300" />
+
+
 
 I recently received an iMessage from an unknown Hotmail address:  
 
