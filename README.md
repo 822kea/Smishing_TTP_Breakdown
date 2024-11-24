@@ -10,14 +10,16 @@ I recently received an iMessage from an unknown Hotmail address:
 
 `korhsrd427@hotmail.com`  
 
-They were offering me a job 🎉! Unfortunately for them, the red flags were blazing, and I wasn’t falling for it.  
+They were offering me a job 🎉! 
+
+Unfortunately for them, the red flags were blazing, and I wasn’t falling for it.  
 
 For those who might not recognize the signs of a smishing attempt, here’s a breakdown of the **red flags** and the **TTPs** the threat actor employed:  
 
 ## Red Flags  
 
 1. **Free Email Domain**:  
-   - Legitimate businesses typically use a corporate email domain (e.g., `@temu.com`), not free providers like `@hotmail.com`. This indicates the sender is unprofessional—or fraudulent.  
+   - Legitimate businesses typically use a corporate email domain (e.g., `@temu.com`), not free providers like `@hotmail.com`. This usually indicates the sender is fraudulent.  
 
 2. **No Personalization**:  
    - The message didn’t address me by name, which is a common sign of phishing or smishing. Personalized messages are less likely to be ignored but harder for scammers to generate at scale.  
@@ -26,16 +28,16 @@ For those who might not recognize the signs of a smishing attempt, here’s a br
    - Always be skeptical of unsolicited offers, especially for positions you didn’t apply for.  
 
 4. **Poor Grammar and Execution**:  
-   - The text was riddled with errors and run-on sentences. Professional communication would be polished and concise.  
+   - The text is riddled with errors and run-on sentences. Professional communication would be polished and concise.  
 
 5. **WhatsApp Contact Information**:  
-   - Businesses typically direct you to professional channels like corporate email, LinkedIn, or an official website. Including a WhatsApp number is a major red flag.  
+   - Businesses typically direct you to corporate emails or an official website. Including a WhatsApp number is a major red flag.  
 
 ---
 
 ## Threat Actor TTPs  
 
-Here’s a breakdown of the **Tactics, Techniques, and Procedures (TTPs)** used by this threat actor:  
+Here’s a breakdown of some of the **Tactics, Techniques, and Procedures (TTPs)** used by this threat actor:  
 
 1. **Delivery Mechanism**:  
    - **Tactic**: *Social engineering via SMS (smishing)*  
@@ -47,20 +49,12 @@ Here’s a breakdown of the **Tactics, Techniques, and Procedures (TTPs)** used 
 
 3. **Urgency and Exploitation of Emotions**:  
    - **Procedure**: *Preying on job seekers’ desperation*  
-   - The message capitalized on economic uncertainty and the natural excitement of receiving a job offer, pushing recipients to act without thinking.  
-
-4. **Use of a Free Email Domain**:  
-   - **Technique**: *Anonymity via non-attributable email*  
-   - Using a Hotmail account obscures their identity, making it difficult to trace the message back to them.  
-
-5. **Push to Third-Party Messaging Platforms**:  
-   - **Procedure**: *Move communication to less secure channels*  
-   - Directing targets to WhatsApp likely reduces scrutiny from email spam filters and gives the attacker more control over the interaction.  
-
+   - The message capitalized on economic uncertainty and the natural excitement of receiving a job offer, pushing recipients to act without thinking.
+     
 ---
 
 ## Conclusion  
 
-This smishing attempt highlights how threat actors adapt their methods to exploit vulnerable individuals. By using impersonation, social engineering, and urgency, they aim to manipulate recipients into disclosing personal information or sending money.  
+This smishing attempt shows how threat actors adapt their methods to exploit vulnerable individuals.
 
-If you encounter a message like this, remember the red flags and **pause before you engage**. Threat actors count on you reacting emotionally rather than rationally. Stay vigilant, and don’t let them catch you slipping!  
+If you encounter a message like this, remember the red flags and **pause before you engage**. Threat actors count on you reacting emotionally rather than rationally. 
