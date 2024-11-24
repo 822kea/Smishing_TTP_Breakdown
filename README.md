@@ -1,7 +1,7 @@
 # Analyzing Signs of a Smishing Attempt  
 
 ## The Message:  
-*‘image placeholder’*  
+![Smishing Image](SMS Photo/smishing_photo.PNG) 
 
 I recently received an iMessage from an unknown Hotmail address:  
 
